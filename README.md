@@ -221,7 +221,7 @@ Events logged include:
 ### 1. Clone repository
 
 ```
-git clone <repo_url>
+git clone https://github.com/AryaBhiwapurkar/School-Management-System-.git
 cd school-management-system
 ```
 
