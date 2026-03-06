@@ -1,0 +1,6 @@
+<form method="post" action="/hello/">
+    {% csrf_token %}
+    <label>Username</label>
+    <input type="text" name="username">
+    <button type="submit">Send POST</button>
+</form>
