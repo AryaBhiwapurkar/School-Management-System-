@@ -504,4 +504,4 @@ MIT
 
 ## 📎 Additional Resources
 
-- [Detailed Codebase Documentation (PDF)](https://drive.google.com/file/d/1aBVK-BhzBturc-lr8Y5VDkXoGYOJ-Chv/view?usp=sharing)
+- [Detailed Codebase Documentation (PDF)](https://drive.google.com/file/d/13-pd_3rSaQnhQkh51hlS-kR13dR0WWuA/view?usp=sharing)
